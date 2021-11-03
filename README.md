@@ -13,5 +13,8 @@ Automation. NLP can replace the manual processes financial institutions employ t
 Data enrichment. Once unstructured data is captured, adding context makes it more searchable and actionable. “Imagine I get a transcript of that earnings call, and I want to find places where they’re talking about environmental impact,” Shulman said. Machine learning can enrich that raw text with metadata — flagging sections that address environmental impact, financial impact, or other topics of interest.
 Search and discovery. Finance is on a mission to find competitive advantage in broader and more varied types of data, but what’s missing is a search experience that’s as effortless and effective as the Google search bar consumers are accustomed to.
 
+[How the large investment firms use nlp for business](https://towardsdatascience.com/how-the-large-investment-firms-use-nlp-822c7c79af96)
+
 https://fisher.wharton.upenn.edu/wp-content/uploads/2020/09/Thesis_Jaebin-Chang.pdf
+
 
