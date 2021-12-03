@@ -20,4 +20,3 @@ https://fisher.wharton.upenn.edu/wp-content/uploads/2020/09/Thesis_Jaebin-Chang.
 
 Sentimental Analysis twitter  stock prediction
 https://ieeexplore.ieee.org/document/9198494
-  
