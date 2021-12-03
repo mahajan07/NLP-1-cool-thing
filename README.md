@@ -20,3 +20,7 @@ https://fisher.wharton.upenn.edu/wp-content/uploads/2020/09/Thesis_Jaebin-Chang.
 
 Sentimental Analysis twitter  stock prediction
 https://ieeexplore.ieee.org/document/9198494
+
+New article added
+more easy apporoach
+https://cs229.stanford.edu/proj2011/GoelMittal-StockMarketPredictionUsingTwitterSentimentAnalysis.pdf
